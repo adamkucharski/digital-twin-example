@@ -1,6 +1,6 @@
-# LLM Survey Simulator
+# Exploratory LLM survey simulation
 
-Simulates public opinion survey responses using LLM-generated probability distributions over demographically sampled personas, then compares predictions against actual results.
+This code simulates public opinion survey responses using LLM-generated probability distributions over demographically sampled personas, then compares predictions against actual results.
 
 For background on this project, see this Substack post, which compares with publicly available survey results:
 - How to make 95% accurate digital twins (ish)
