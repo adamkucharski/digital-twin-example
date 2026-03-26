@@ -1,0 +1,33 @@
+[
+  {
+    "survey_id": "favourite_hot_drink",
+    "title": "Tea remains Britain's favourite hot drink",
+    "type": "single_pick",
+    "question": "Which of the following is your favourite hot drink?",
+    "data": {
+      "All Britons": {
+        "Tea": {"percentage": 50},
+        "Coffee": {"percentage": 40},
+        "Hot chocolate": {"percentage": 12},
+        "Herbal tea": {"percentage": 5},
+        "None of these": {"percentage": 3}
+      }
+    }
+  },
+  {
+    "survey_id": "commute_method",
+    "title": "How Britons get to work",
+    "type": "single_pick",
+    "question": "What is your main method of commuting to work?",
+    "data": {
+      "All Britons": {
+        "Car": null,
+        "Public transport": null,
+        "Bicycle": null,
+        "Walking": null,
+        "Work from home": null,
+        "Other": null
+      }
+    }
+  }
+]
