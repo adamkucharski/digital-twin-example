@@ -2,8 +2,7 @@
 
 This code simulates public opinion survey responses using LLM-generated probability distributions over demographically sampled personas, then compares predictions against actual results.
 
-For background on this project, see this Substack post, which compares with publicly available survey results:
-- [How to make 95% accurate digital twins (ish)](https://kucharski.substack.com/p/how-i-made-some-95-accurate-digital)
+For background on this project, see this Substack post, which compares with publicly available survey results: [How to make 95% accurate digital twins (ish)](https://kucharski.substack.com/p/how-i-made-some-95-accurate-digital)
 
 Note: this is a quick simulation model to support an exploratory commentary post, generated with the help of Claude Code, rather than production software. Code is provided only for illustration.
 
