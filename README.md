@@ -1,10 +1,12 @@
-# Exploratory LLM survey simulation
+# LLM digital twin simulation experiment
 
-This code simulates public opinion survey responses using LLM-generated probability distributions over demographically sampled personas, then compares predictions against actual results.
+This code simulates public opinions responses using LLM-generated probability distributions over demographically sampled personas, then compares predictions against actual results.
 
-For background on this project, see this Substack post, which compares with publicly available survey results: [How to make 95% accurate digital twins (ish)](https://kucharski.substack.com/p/how-i-made-some-95-accurate-digital)
+For background on this project, see this Substack post, which compares with publicly available survey results: [How to make 95% accurate digital twins](https://kucharski.substack.com/p/how-i-made-some-95-accurate-digital)
 
-Note: this is a quick simulation model to support an exploratory commentary post, generated with the help of Claude Code, rather than production software. Code is provided only for illustration.
+This post also has more background on the use of AI for synthetic populations: [Can language models tell us what populations are thinking and doing?](https://kucharski.substack.com/p/can-language-models-tell-us-what).
+
+Note: this is an simulation model to support an initial experiment, generated with the help of Claude Code, rather than full production software. Code is provided only for illustration.
 
 ## How it works
 
