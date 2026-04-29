@@ -6,7 +6,7 @@ For background on this project, see this Substack post, which compares with publ
 
 This post also has more background on the use of AI for synthetic populations: [Can language models tell us what populations are thinking and doing?](https://kucharski.substack.com/p/can-language-models-tell-us-what).
 
-Note: this is an simulation model to support an initial experiment, generated with the help of Claude Code, rather than full production software. Code is provided only for illustration.
+Note: this is an simulation model to support experimental testing, generated with the help of Claude Code; accompanying code is provided only for illustration.
 
 ## How it works
 
